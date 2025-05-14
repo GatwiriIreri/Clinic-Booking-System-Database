@@ -75,7 +75,7 @@ Indexes: Strategic indexing for improved query performance
 Prerequisites
 MySQL (version 5.7+)
 Sufficient database permissions to create databases and tables
-MySQL client or administration tool (MySQL Workbench, phpMyAdmin, etc.)
+MySQL client or administration tool (MySQL Workbench)
 
 # Installation
 
